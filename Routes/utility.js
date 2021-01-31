@@ -7,7 +7,10 @@ const GreenFood = require("../Database/model").greenFood;
 const async = require("async");
 
 router.post("/user/profile", middleware, (req, res) => {
-  const email = req.body.email;
+    let email = req.body.email;
+  if(!email){
+    email = req.decode.email
+  }
   console.log(email);
   User.findOne({
     EMAIL: email,
@@ -61,7 +64,10 @@ router.post("/user/profile", middleware, (req, res) => {
 });
 
 router.post("/restaurant/profile", middleware, (req, res) => {
-  const email = req.body.email;
+  let email = req.body.email;
+  if(!email){
+    email = req.decode.email
+  }
   console.log(email);
   ExcessFood.find({
     EMAIL: email,
