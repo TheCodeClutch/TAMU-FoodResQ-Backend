@@ -28,6 +28,8 @@ Thus we bring to you Food ResQ, a one-stop application to bridge the gap between
 
 Link to frontend repo: https://github.com/TheCodeClutch/TAMU-FoodResQ-Frontend
 
+Demo Video: https://youtu.be/2pE-OQdbXTo
+
 ## Contributors
 
 <table>
