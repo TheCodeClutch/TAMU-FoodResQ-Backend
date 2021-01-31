@@ -21,8 +21,7 @@ Thus we bring to you Food ResQ, a one-stop application to bridge the gap between
 1. The website frontend was made using HTML, CSS, and JS.
 2. The website backend was made using Node JS and MongoDB as the database and the backend is deployed on Heroku.
 3. We integrated the HERE Maps API in the frontend to pick out the exact locations of restaurants, thus making it easy for our ResQ-uers to reach and pick up from these providers.
-4. The application is live at https://foodresq.netlify.app/
-5. We used Domain.com to register a domain name for our website. https://fillhunger.space/
+4. We used Domain.com to register a domain name for our website. https://fillhunger.space/
 
 Link to backend repo: https://github.com/TheCodeClutch/TAMU-FoodResQ-Frontend
 
