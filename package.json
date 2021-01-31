@@ -1,0 +1,37 @@
+{
+  "name": "tamu-hack-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeClutch/TAMU-Hack-Backend.git"
+  },
+  "author": "Nikhil Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeClutch/TAMU-Hack-Backend/issues"
+  },
+  "homepage": "https://github.com/TheCodeClutch/TAMU-Hack-Backend#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.23.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.14",
+    "multer": "^1.4.2",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
