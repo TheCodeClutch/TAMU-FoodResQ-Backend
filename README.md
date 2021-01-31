@@ -1,4 +1,7 @@
-# TAMU-FoodResQ
+<p align="center">
+<img width="450" height="200" src="https://github.com/TheCodeClutch/TAMU-FoodResQ-Frontend/blob/master/images/logo.jpeg">
+</p>
+
 
 ## Inspiration
 An approximate estimation of 1.3 billion tonnes of food is wasted globally each year. Food has and always will be the first and foremost primary necessity of the living world. At Food ResQ, we realize the importance of each grain and wish to do our part in reducing food-wastage and in-turn eliminating the world's hunger bit by bit.
@@ -23,7 +26,7 @@ Thus we bring to you Food ResQ, a one-stop application to bridge the gap between
 3. We integrated the HERE Maps API in the frontend to pick out the exact locations of restaurants, thus making it easy for our ResQ-uers to reach and pick up from these providers.
 4. We used Domain.com to register a domain name for our website. https://fillhunger.space/
 
-Link to backend repo: https://github.com/TheCodeClutch/TAMU-FoodResQ-Frontend
+Link to frontend repo: https://github.com/TheCodeClutch/TAMU-FoodResQ-Frontend
 
 ## Contributors
 
